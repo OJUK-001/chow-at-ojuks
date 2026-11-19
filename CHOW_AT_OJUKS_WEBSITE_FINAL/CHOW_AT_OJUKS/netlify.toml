@@ -1,0 +1,6 @@
+# The base directory is already CHOW_AT_OJUKS_WEBSITE_FINAL/CHOW_AT_OJUKS,
+# so publish paths here are relative to it. This is a plain static site:
+# no build command, publish the folder as-is.
+[build]
+  publish = "."
+  command = ""
